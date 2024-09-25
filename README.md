@@ -1,6 +1,6 @@
-# Code for _Physarum policephalum_ Agent-based model
+# Code for _Physarum polycephalum_ Agent-based model
 
-Code to reproduce the investigations described in the paper "Bottom-up robust model for the foraging behaviour of _Physarum policephalum_".
+Code to reproduce the investigations described in the paper "Bottom-up robust modelling for the foraging behaviour of _Physarum polycephalum_".
 
 ## Requirements
 GAMA Platform 1.9 or above
@@ -9,4 +9,4 @@ GAMA Platform 1.9 or above
 Damiano Reginato (damiano.reginato@gmail.com)
 
 ## Reproduce
-In case you use this code to build your own or caary out further investigations, please cite: D. Reginato, D. Proverbio, G. Giordano, "Bottom-up robust model for the foraging behaviour of _Physarum policephalum_" (2024)
+In case you use this code to build your own or caary out further investigations, please cite: D. Reginato, D. Proverbio, G. Giordano, "Bottom-up robust modelling for the foraging behaviour of _Physarum polycephalum_" (2024)
